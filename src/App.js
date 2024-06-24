@@ -1,10 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import { Carousel } from './components/Carousel';
+import slides from './data/carouselData.json';
 function App() {
+
   return (
     <div className="App">
-      Hello World !
+      <Carousel data={slides}/>
     </div>
   );
 }
