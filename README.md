@@ -14,3 +14,10 @@ A simple Image carousel component
 3. **Run Server** :
    ```bash
    npm start  
+
+
+## Screenshot
+
+<div align="center">
+  <img src="screenshot.png"><br><br>
+</div>
